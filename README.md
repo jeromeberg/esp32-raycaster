@@ -5,6 +5,8 @@ A tiny raycasting engine inspired by [cub3d](https://github.com/jeromeberg/cub3d
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
+![demo](demo.gif)
+
 ## Hardware
 
 - NodeMCU-32S
